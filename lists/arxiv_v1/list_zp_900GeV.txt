@@ -1,0 +1,4 @@
+analyzed_histos_zp_ttbarj_allhad_900GeV_14TeV_ATLAS_half0.root
+Z'#rightarrow t#bar{t}, m_{Z'} = 0.9 TeV
+1000 0 2 5
+m_{Z'} = 0.9 TeV

@@ -1,0 +1,4 @@
+analyzed_histos_pp2xdxdtt_y0_1000GeV_xd_10GeV_allhad_14TeV_ATLAS_half0.root
+t#bar{t} #chi_{D}#bar{#chi}_{D}, m_{#chi_{D}} = 10 GeV
+12000 0 1 3
+m_{#chi_{D}} = 10 GeV, m_{y_{0}} = 1 TeV, #Gamma_{y_{0}} = 10 GeV

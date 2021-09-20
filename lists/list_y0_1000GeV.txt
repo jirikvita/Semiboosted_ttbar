@@ -1,0 +1,5 @@
+analyzed_histos_pp2y02tt_y0_1000GeV_NLO_14TeV_ATLAS_half0.root
+y_{0}#rightarrow t#bar{t}, m_{y_{0}} = 1 TeV, #Gamma_{y_{0}} = 10 GeV
+30 0. 1.5 4
+m_{y_{0}} = 1 TeV, #Gamma_{y_{0}} = 10 GeV
+y0_1000GeV

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm analyzed_histos_4t_allhad_14TeV_ATLAS.root
+hadd analyzed_histos_4t_allhad_14TeV_ATLAS.root analyzed_histos_run_*STAR_4t_allhad_14TeV_ATLAS.root
